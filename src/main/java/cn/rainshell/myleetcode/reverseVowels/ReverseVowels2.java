@@ -1,4 +1,4 @@
-package cn.rainshell.myleetcode.lee20200715;
+package cn.rainshell.myleetcode.reverseVowels;
 
 import java.util.Arrays;
 import java.util.HashSet;

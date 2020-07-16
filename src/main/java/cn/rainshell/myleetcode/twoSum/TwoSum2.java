@@ -1,4 +1,4 @@
-package cn.rainshell.myleetcode.lee20200714;
+package cn.rainshell.myleetcode.twoSum;
 
 import com.google.gson.Gson;
 
@@ -6,7 +6,7 @@ import com.google.gson.Gson;
  * @author jason
  * @date 2020/7/14
  */
-public class TwoSortedSum2 {
+public class TwoSum2 {
 
     public static int[] sum(int[] n, int target) {
         if(n==null) {
