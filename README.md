@@ -8,6 +8,7 @@
 | 406  | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Java](src/main/java/cn/rainshell/myleetcode/queueReconstructionByHeight/QueueReconstructionByHeight.java) | Medium     | 1     |
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Java](src/main/java/cn/rainshell/myleetcode/reverseVowelsOfAString/ReverseVowelsOfAString.java) | Easy       | 1     |
 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](src/main/java/cn/rainshell/myleetcode/kthLargestElementInAnArray/KthLargestElementInAnArray.java) | Medium       | 1     |
+| 189  | [Rotate Array](https://leetcode-cn.com/problems/rotate-array/) | [Java](src/main/java/cn/rainshell/myleetcode/rotateArray/RotateArray.java) | Easy       | 1     |
 | 167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Java](src/main/java/cn/rainshell/myleetcode/twoSumIIInputArrayIsSorted/TwoSumIIInputArrayIsSorted.java) | Easy       | 1     |
 | 141  | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [Java](src/main/java/cn/rainshell/myleetcode/linkedListCycle/LinkedListCycle.java) | Easy       | 1     |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](src/main/java/cn/rainshell/myleetcode/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java) | Easy       | 1     |
