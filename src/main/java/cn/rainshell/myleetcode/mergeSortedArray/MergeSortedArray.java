@@ -1,4 +1,4 @@
-package cn.rainshell.myleetcode.merge;
+package cn.rainshell.myleetcode.mergeSortedArray;
 
 import com.google.gson.Gson;
 
@@ -6,7 +6,7 @@ import com.google.gson.Gson;
  * @author jason
  * @date 2020/7/16
  */
-public class Merge {
+public class MergeSortedArray {
 
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
 

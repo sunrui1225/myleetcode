@@ -1,4 +1,4 @@
-package cn.rainshell.myleetcode.reconstructQueue;
+package cn.rainshell.myleetcode.queueReconstructionByHeight;
 
 import com.google.gson.Gson;
 
@@ -8,7 +8,7 @@ import java.util.*;
  * @author jason
  * @date 2020/7/24
  */
-public class ReconstructQueue {
+public class QueueReconstructionByHeight {
 
     public static int[][] reconstructQueue(int[][] people) {
 

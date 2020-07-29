@@ -1,4 +1,4 @@
-package cn.rainshell.myleetcode.reverseVowels;
+package cn.rainshell.myleetcode.reverseVowelsOfAString;
 
 import java.util.Arrays;
 import java.util.HashSet;

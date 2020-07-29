@@ -1,6 +1,5 @@
-package cn.rainshell.myleetcode.findLongestWord;
+package cn.rainshell.myleetcode.longestWordInDictionaryThroughDeleting;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -8,7 +7,7 @@ import java.util.List;
  * @author jason
  * @date 2020/7/20
  */
-public class FindLongestWord {
+public class LongestWordInDictionaryThroughDeleting {
 
     public static String findLongestWord(String s, List<String> d) {
 

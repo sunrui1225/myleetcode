@@ -1,4 +1,4 @@
-package cn.rainshell.myleetcode.hasCycle;
+package cn.rainshell.myleetcode.linkedListCycle;
 
 /**
  * @author jason
@@ -14,7 +14,7 @@ package cn.rainshell.myleetcode.hasCycle;
          next = null;
      }
 }
-public class HasCycle {
+public class LinkedListCycle {
     public boolean hasCycle(ListNode head) {
 
         if(head==null) {

@@ -1,4 +1,4 @@
-package cn.rainshell.myleetcode.twoSum;
+package cn.rainshell.myleetcode.twoSumIIInputArrayIsSorted;
 
 import com.google.gson.Gson;
 

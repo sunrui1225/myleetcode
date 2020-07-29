@@ -1,10 +1,10 @@
-package cn.rainshell.myleetcode.reverse;
+package cn.rainshell.myleetcode.reverseInteger;
 
 /**
  * @author jason
  * @date 2020/7/17
  */
-public class Reverse {
+public class ReverseInteger {
 
     public static int reverse(int x){
 

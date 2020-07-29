@@ -1,4 +1,4 @@
-package cn.rainshell.myleetcode.removeDuplicates;
+package cn.rainshell.myleetcode.removeDuplicatesFromSortedArray;
 
 import com.google.gson.Gson;
 
@@ -7,7 +7,7 @@ import com.google.gson.Gson;
  * @author jason
  * @date 2020/7/29
  */
-public class RemoveDuplicates {
+public class RemoveDuplicatesFromSortedArray {
 
     public static int removeDuplicates(int[] nums) {
 

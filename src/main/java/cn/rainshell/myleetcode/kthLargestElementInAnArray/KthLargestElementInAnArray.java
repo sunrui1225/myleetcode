@@ -1,10 +1,10 @@
-package cn.rainshell.myleetcode.findKthLargest;
+package cn.rainshell.myleetcode.kthLargestElementInAnArray;
 
 /**
  * @author jason
  * @date 2020/7/22
  */
-public class FindKthLargest {
+public class KthLargestElementInAnArray {
 
     public  static int findKthLargest(int[] nums, int k) {
 

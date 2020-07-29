@@ -1,4 +1,4 @@
-package cn.rainshell.myleetcode.reverseVowels;
+package cn.rainshell.myleetcode.reverseVowelsOfAString;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -7,7 +7,7 @@ import java.util.Set;
  * @author jason
  * @date 2020/7/15
  */
-public class ReverseVowels {
+public class ReverseVowelsOfAString {
 
     static  Set vowelSet = new HashSet<String>();
     {

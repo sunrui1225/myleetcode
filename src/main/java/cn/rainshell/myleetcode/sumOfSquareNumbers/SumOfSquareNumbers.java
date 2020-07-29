@@ -1,10 +1,10 @@
-package cn.rainshell.myleetcode.judgeSquareSum;
+package cn.rainshell.myleetcode.sumOfSquareNumbers;
 
 /**
  * @author jason
  * @date 2020/7/14
  */
-public class JudgeSquareSum {
+public class SumOfSquareNumbers {
 
     public static boolean judgeSquareSum(int n) {
 

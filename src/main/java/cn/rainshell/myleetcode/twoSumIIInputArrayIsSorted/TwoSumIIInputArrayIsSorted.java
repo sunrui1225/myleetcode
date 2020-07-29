@@ -1,4 +1,4 @@
-package cn.rainshell.myleetcode.twoSum;
+package cn.rainshell.myleetcode.twoSumIIInputArrayIsSorted;
 
 import com.google.gson.Gson;
 
@@ -7,7 +7,7 @@ import com.google.gson.Gson;
  * @author jason
  * @date 2020/7/13
  */
-public class TwoSum {
+public class TwoSumIIInputArrayIsSorted {
 
     public static int[] twoSum(int[] n, int target) {
         if(n == null || n.length==0) {

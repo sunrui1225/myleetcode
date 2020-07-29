@@ -1,4 +1,4 @@
-package cn.rainshell.myleetcode.judgeSquareSum;
+package cn.rainshell.myleetcode.sumOfSquareNumbers;
 
 /**
  * @author jason

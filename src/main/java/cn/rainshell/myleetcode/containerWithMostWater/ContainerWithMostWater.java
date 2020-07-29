@@ -1,10 +1,10 @@
-package cn.rainshell.myleetcode.maxArea;
+package cn.rainshell.myleetcode.containerWithMostWater;
 
 /**
  * @author jason
  * @date 2020/7/16
  */
-public class MaxArea {
+public class ContainerWithMostWater {
 
     public static int maxArea(int[] height) {
 
