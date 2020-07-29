@@ -10,4 +10,5 @@
 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](src/main/java/cn/rainshell/myleetcode/findKthLargest/FindKthLargest.java) | Medium       | 1     |
 | 167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Java](src/main/java/cn/rainshell/myleetcode/twoSum/TwoSum.java) | Easy       | 1     |
 | 141  | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [Java](src/main/java/cn/rainshell/myleetcode/merge/Merge.java) | Easy       | 1     |
+| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](src/main/java/cn/rainshell/myleetcode/removeDuplicates/RemoveDuplicates.java) | Easy       | 1     |
 | 7    | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [Java](src/main/java/cn/rainshell/myleetcode/reverse/Reverse.java) | Easy       | 1     |
