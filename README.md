@@ -18,5 +18,4 @@
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](src/main/java/cn/rainshell/myleetcode/containerWithMostWater/ContainerWithMostWater.java) | Easy       | 1     |
 | 8    | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](src/main/java/cn/rainshell/myleetcode/mergeSortedArray/MergeSortedArray.java) | Easy       | 1     |
 | 7    | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [Java](src/main/java/cn/rainshell/myleetcode/reverseInteger/ReverseInteger.java) | Easy       | 1     |
-
-https://leetcode-cn.com/problems/valid-anagram/submissions/
+| 1    | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [Java](src/main/java/cn/rainshell/myleetcode/twoSum/TwoSum.java) | Easy       | 1     |
