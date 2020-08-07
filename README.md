@@ -4,6 +4,7 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ----- |
 | 680  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Java](src/main/java/cn/rainshell/myleetcode/validPalindromeII/ValidPalindromeII.java) | Easy       | 1     |
 | 633  | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | [Java](src/main/java/cn/rainshell/myleetcode/sumOfSquareNumbers/SumOfSquareNumbers.java) | Easy       | 1     |
+| 589  | [N Ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [Java](src/main/java/cn/rainshell/myleetcode/nAryTreePreorderTraversal/NAryTreePreorderTraversal.java) | Easy       | 1     |
 | 524  | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Java](src/main/java/cn/rainshell/myleetcode/longestWordInDictionaryThroughDeleting/LongestWordInDictionaryThroughDeleting.java) | Medium     | 1     |
 | 406  | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Java](src/main/java/cn/rainshell/myleetcode/queueReconstructionByHeight/QueueReconstructionByHeight.java) | Medium     | 1     |
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Java](src/main/java/cn/rainshell/myleetcode/reverseVowelsOfAString/ReverseVowelsOfAString.java) | Easy       | 1     |
