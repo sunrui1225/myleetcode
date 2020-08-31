@@ -6,7 +6,7 @@ package cn.rainshell.myleetcode.lowestCommonAncestorOfABinaryTree;
  *  1，递归
  *      定义fx 表达式，左子树或者右子书是否包含p或者q节点，当前节点是否是p或者q节点，x为子节点
  *      深度优先便利，在便利中利用上述表达式找出答案。
- *  2，保存没有个节点的父亲节点，通过map保存。从q向上跳一直到根，保存访问过的节点路径到set，然后再从q向上访问，如果有节点在set中，找到答案
+ *  2，保存每个节点的父亲节点，通过map保存。从p向上跳一直到根，保存访问过的节点路径到set，然后再从q向上访问，如果有节点在set中，找到答案
  * @author jason
  * @date 2020/8/21
  */

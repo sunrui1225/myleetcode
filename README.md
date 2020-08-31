@@ -19,6 +19,7 @@
 | 105  | [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](src/main/java/cn/rainshell/myleetcode/constructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) | Medium       | 1     |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Java](src/main/java/cn/rainshell/myleetcode/binaryTreeInorderTraversal/BinaryTreeInorderTraversal.java) | Medium       | 1     |
 | 77   | [Combinations](https://leetcode-cn.com/problems/combinations/) | [Java](src/main/java/cn/rainshell/myleetcode/combinations/Combinations.java) | Medium       | 1     |
+| 46   | [Permutations](https://leetcode-cn.com/problems/permutations/) | [Java](src/main/java/cn/rainshell/myleetcode/permutations/Permutations.java) | Medium       | 1     |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Java](src/main/java/cn/rainshell/myleetcode/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java) | Easy       | 1     |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/container-with-most-water/) | [Java](src/main/java/cn/rainshell/myleetcode/mergeTwoSortedLists/MergeTwoSortedLists.java) | Easy       | 1     |
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](src/main/java/cn/rainshell/myleetcode/containerWithMostWater/ContainerWithMostWater.java) | Easy       | 1     |
@@ -27,4 +28,3 @@
 | 1    | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [Java](src/main/java/cn/rainshell/myleetcode/twoSum/TwoSum.java) | Easy       | 1     |
 
 
- * 
