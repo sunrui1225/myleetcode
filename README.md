@@ -2,7 +2,7 @@
 
 | #    | Title                                                        | Solution                                                     | Difficulty | Times |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ----- |
-| 860  | [Lemonade Change](https://leetcode-cn.com/problems/lemonade-change/) | [Java](src/main/java/cn/rainshell/myleetcode/lemonadeChange/LemonadeChange.java) | Easy       | 1     |
+| 860  | [Lemonade Change](https://leetcode-cn.com/problems/lemonade-change/) | [Java](src/main/java/cn/rainshell/myleetcode/lemonadeChange/LemonadeChange.java) | Easy       | 2     |
 | 680  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Java](src/main/java/cn/rainshell/myleetcode/validPalindromeII/ValidPalindromeII.java) | Easy       | 1     |
 | 633  | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | [Java](src/main/java/cn/rainshell/myleetcode/sumOfSquareNumbers/SumOfSquareNumbers.java) | Easy       | 1     |
 | 589  | [N Ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [Java](src/main/java/cn/rainshell/myleetcode/nAryTreePreorderTraversal/NAryTreePreorderTraversal.java) | Easy       | 1     |
@@ -20,8 +20,9 @@
 | 105  | [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](src/main/java/cn/rainshell/myleetcode/constructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) | Medium       | 1     |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Java](src/main/java/cn/rainshell/myleetcode/binaryTreeInorderTraversal/BinaryTreeInorderTraversal.java) | Medium       | 1     |
 | 77   | [Combinations](https://leetcode-cn.com/problems/combinations/) | [Java](src/main/java/cn/rainshell/myleetcode/combinations/Combinations.java) | Medium       | 1     |
+| 64   | [Combinations](https://leetcode-cn.com/problems/minimum-path-sum/) | [Java](src/main/java/cn/rainshell/myleetcode/minimumPathSum/MinimumPathSum.java) | Medium       | 1     |
 | 47   | [Permutations-II](https://leetcode-cn.com/problems/permutations-ii/) | [Java](src/main/java/cn/rainshell/myleetcode/permutationsII/PermutationsII.java) | Medium       | 1     |
-| 46   | [Permutations](https://leetcode-cn.com/problems/permutations/) | [Java](src/main/java/cn/rainshell/myleetcode/permutations/Permutations.java) | Medium       | 1     |
+| 46   | [Permutations](https://leetcode-cn.com/problems/permutations/) | [Java](src/main/java/cn/rainshell/myleetcode/permutations/Permutations.java) | Medium       | 2     |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Java](src/main/java/cn/rainshell/myleetcode/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java) | Easy       | 1     |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/container-with-most-water/) | [Java](src/main/java/cn/rainshell/myleetcode/mergeTwoSortedLists/MergeTwoSortedLists.java) | Easy       | 1     |
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](src/main/java/cn/rainshell/myleetcode/containerWithMostWater/ContainerWithMostWater.java) | Easy       | 1     |
