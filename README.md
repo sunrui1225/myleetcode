@@ -19,8 +19,9 @@
 | 141  | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [Java](src/main/java/cn/rainshell/myleetcode/linkedListCycle/LinkedListCycle.java) | Easy       | 1     |
 | 105  | [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](src/main/java/cn/rainshell/myleetcode/constructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) | Medium       | 1     |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Java](src/main/java/cn/rainshell/myleetcode/binaryTreeInorderTraversal/BinaryTreeInorderTraversal.java) | Medium       | 1     |
+| 91   | [Decode Ways](https://leetcode-cn.com/problems/decode-ways/) | [Java](src/main/java/cn/rainshell/myleetcode/decodeWays/DecodeWays.java) | Medium       | 1     |
 | 77   | [Combinations](https://leetcode-cn.com/problems/combinations/) | [Java](src/main/java/cn/rainshell/myleetcode/combinations/Combinations.java) | Medium       | 1     |
-| 64   | [Combinations](https://leetcode-cn.com/problems/minimum-path-sum/) | [Java](src/main/java/cn/rainshell/myleetcode/minimumPathSum/MinimumPathSum.java) | Medium       | 1     |
+| 64   | [Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/) | [Java](src/main/java/cn/rainshell/myleetcode/minimumPathSum/MinimumPathSum.java) | Medium       | 1     |
 | 47   | [Permutations-II](https://leetcode-cn.com/problems/permutations-ii/) | [Java](src/main/java/cn/rainshell/myleetcode/permutationsII/PermutationsII.java) | Medium       | 1     |
 | 46   | [Permutations](https://leetcode-cn.com/problems/permutations/) | [Java](src/main/java/cn/rainshell/myleetcode/permutations/Permutations.java) | Medium       | 2     |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Java](src/main/java/cn/rainshell/myleetcode/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java) | Easy       | 1     |
