@@ -30,6 +30,7 @@
 | 64   | [Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/) | [Java](src/main/java/cn/rainshell/myleetcode/minimumPathSum/MinimumPathSum.java) | Medium       | 1     |
 | 47   | [Permutations-II](https://leetcode-cn.com/problems/permutations-ii/) | [Java](src/main/java/cn/rainshell/myleetcode/permutationsII/PermutationsII.java) | Medium       | 1     |
 | 46   | [Permutations](https://leetcode-cn.com/problems/permutations/) | [Java](src/main/java/cn/rainshell/myleetcode/permutations/Permutations.java) | Medium       | 2     |
+| 36   | [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/) | [Java](src/main/java/cn/rainshell/myleetcode/validSudoku/ValidSudoku.java) | Medium       | 1     |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Java](src/main/java/cn/rainshell/myleetcode/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java) | Easy       | 1     |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/container-with-most-water/) | [Java](src/main/java/cn/rainshell/myleetcode/mergeTwoSortedLists/MergeTwoSortedLists.java) | Easy       | 1     |
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](src/main/java/cn/rainshell/myleetcode/containerWithMostWater/ContainerWithMostWater.java) | Easy       | 1     |
