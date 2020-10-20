@@ -1,4 +1,4 @@
-package findAllAnagramsInAString;
+package cn.rainshell.myleetcode.findAllAnagramsInAString;
 
 import java.util.ArrayList;
 import java.util.HashMap;
