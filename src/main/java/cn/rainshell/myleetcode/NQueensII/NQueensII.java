@@ -14,6 +14,8 @@ package cn.rainshell.myleetcode.NQueensII;
  *                  把na向右边移动n - 1 - row位，可得到这一第row的最右边n位中，某一列所在的na已经放置le皇后
  *      最后或在一起再取反，得到可放置皇后的位置，如：((1 << n) -1) & ~(col | pie >> row | na >> (n - 1 - row));
  *
+ *      @see <a herf="https://zhuanlan.zhihu.com/p/22846106">参考</a>
+ *
  * @author jason
  * @date 2020/9/29
  */
