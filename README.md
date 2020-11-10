@@ -32,6 +32,7 @@
 | 52   | [N Queens II](https://leetcode-cn.com/problems/n-queens-ii/) | [Java](src/main/java/cn/rainshell/myleetcode/NQueensII/NQueensII.java) | Hard       | 1     |
 | 47   | [Permutations-II](https://leetcode-cn.com/problems/permutations-ii/) | [Java](src/main/java/cn/rainshell/myleetcode/permutationsII/PermutationsII.java) | Medium       | 1     |
 | 46   | [Permutations](https://leetcode-cn.com/problems/permutations/) | [Java](src/main/java/cn/rainshell/myleetcode/permutations/Permutations.java) | Medium       | 2     |
+| 44   | [Wildcard Matching](https://leetcode-cn.com/problems/wildcard-matching/) | [Java](src/main/java/cn/rainshell/myleetcode/wildcardMatching/WildcardMatching.java) | Hard       | 1     |
 | 36   | [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/) | [Java](src/main/java/cn/rainshell/myleetcode/validSudoku/ValidSudoku.java) | Medium       | 1     |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Java](src/main/java/cn/rainshell/myleetcode/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java) | Easy       | 1     |
 | 22   | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [Java](src/main/java/cn/rainshell/myleetcode/generateParentheses/GenerateParentheses.java) | Medium       | 1     |
