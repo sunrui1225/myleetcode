@@ -41,6 +41,7 @@
 | 46   | [Permutations](https://leetcode-cn.com/problems/permutations/) | [Java](src/main/java/cn/rainshell/myleetcode/permutations/Permutations.java) | Medium       | 2     |
 | 44   | [Wildcard Matching](https://leetcode-cn.com/problems/wildcard-matching/) | [Java](src/main/java/cn/rainshell/myleetcode/wildcardMatching/WildcardMatching.java) | Hard       | 1     |
 | 36   | [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/) | [Java](src/main/java/cn/rainshell/myleetcode/validSudoku/ValidSudoku.java) | Medium       | 1     |
+| 32   | [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [Java](src/main/java/cn/rainshell/myleetcode/longestValidParentheses/LongestValidParentheses.java) | Hard       | 1     |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Java](src/main/java/cn/rainshell/myleetcode/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java) | Easy       | 1     |
 | 22   | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [Java](src/main/java/cn/rainshell/myleetcode/generateParentheses/GenerateParentheses.java) | Medium       | 1     |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/container-with-most-water/) | [Java](src/main/java/cn/rainshell/myleetcode/mergeTwoSortedLists/MergeTwoSortedLists.java) | Easy       | 1     |
