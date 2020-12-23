@@ -30,7 +30,7 @@ public class DistinctSubsequences {
             for(int j=1;j<=n;j++) {
                 if(s.charAt(i-1) == t.charAt(j-1)) {
                     // 举一个例子
-                    //  s : a(1)a(2)a(3) ,  t : a[1]a[2] ，则 dp[i-1][j-1] 是 a(1)a(3)和a[1]a[3]匹配，a(2)a(3)和a[1]a[2]匹配
+                    //  s : a(1)a(2)a(3) ,  t : a[1]a[2] ，则 dp[i-1][j-1] 是 a(1)a(3)和a[1]a[2]匹配，a(2)a(3)和a[1]a[2]匹配
                                                            // dp[i-1][j] 是 a(1)a(2)和a[1][2]匹配.
                     // 也就是说，如果两个字符相等，s的i-1这字符选与不选的两种情况
                     dp[i][j] = dp[i-1][j-1] + dp[i-1][j];
