@@ -38,6 +38,7 @@
 | 77   | [Combinations](https://leetcode-cn.com/problems/combinations/) | [Java](src/main/java/cn/rainshell/myleetcode/combinations/Combinations.java) | Medium       | 1     |
 | 64   | [Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/) | [Java](src/main/java/cn/rainshell/myleetcode/minimumPathSum/MinimumPathSum.java) | Medium       | 1     |
 | 52   | [N Queens II](https://leetcode-cn.com/problems/n-queens-ii/) | [Java](src/main/java/cn/rainshell/myleetcode/NQueensII/NQueensII.java) | Hard       | 1     |
+| 49   | [Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/) | [Java](src/main/java/cn/rainshell/myleetcode/groupAnagrams/GroupAnagrams.java) | Medium       | 1     |
 | 47   | [Permutations-II](https://leetcode-cn.com/problems/permutations-ii/) | [Java](src/main/java/cn/rainshell/myleetcode/permutationsII/PermutationsII.java) | Medium       | 1     |
 | 46   | [Permutations](https://leetcode-cn.com/problems/permutations/) | [Java](src/main/java/cn/rainshell/myleetcode/permutations/Permutations.java) | Medium       | 2     |
 | 44   | [Wildcard Matching](https://leetcode-cn.com/problems/wildcard-matching/) | [Java](src/main/java/cn/rainshell/myleetcode/wildcardMatching/WildcardMatching.java) | Hard       | 1     |
