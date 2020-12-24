@@ -19,6 +19,7 @@
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Java](src/main/java/cn/rainshell/myleetcode/reverseVowelsOfAString/ReverseVowelsOfAString.java) | Easy       | 1     |
 | 300  | [Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/dong-tai-gui-hua-er-fen-cha-zhao-tan-xin-suan-fa-p/) | [Java](cn.rainshell.myleetcode.longestIncreasingSubsequence.LongestIncreasingSubsequence) | Medium       | 1     |
 | 283  | [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/submissions/) | [Java](src/main/java/cn/rainshell/myleetcode/moveZeroes/MoveZeroes.java) | Easy       | 1     |
+| 263  | [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [Java](src/main/java/cn/rainshell/myleetcode/uglyNumber/UglyNumber.java) | Easy       | 1     |
 | 242  | [Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/submissions/) | [Java](src/main/java/cn/rainshell/myleetcode/validAnagram/ValidAnagram.java) | Easy       | 1     |
 | 236  | [Lowest Common Ancestor Of A Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Java](src/main/java/cn/rainshell/myleetcode/lowestCommonAncestorOfABinaryTree/LowestCommonAncestorOfABinaryTree.java) | Medium       | 1     |
 | 221  | [Maximal Square](https://leetcode-cn.com/problems/maximal-square/) | [Java](src/main/java/cn/rainshell/myleetcode/maximalSquare/MaximalSquare.java) | Medium       | 1     |
