@@ -4,6 +4,7 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ----- |
 | 917  | [Reverse Only Letters](https://leetcode-cn.com/problems/reverse-only-letters/) | [Java](src/main/java/cn/rainshell/myleetcode/reverseOnlyLetters/ReverseOnlyLetters.java) | Easy       | 1     |
 | 860  | [Lemonade Change](https://leetcode-cn.com/problems/lemonade-change/) | [Java](src/main/java/cn/rainshell/myleetcode/lemonadeChange/LemonadeChange.java) | Easy       | 2     |
+| 692  | [Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words/) | [Java](src/main/java/cn/rainshell/myleetcode/topKFrequentWords/TopKFrequentWords.java) | Medium       | 1     |
 | 680  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Java](src/main/java/cn/rainshell/myleetcode/validPalindromeII/ValidPalindromeII.java) | Easy       | 1     |
 | 633  | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | [Java](src/main/java/cn/rainshell/myleetcode/sumOfSquareNumbers/SumOfSquareNumbers.java) | Easy       | 1     |
 | 621  | [Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/) | [Java](src/main/java/cn/rainshell/myleetcode/taskScheduler/TaskScheduler.java) | Medium       | 1     |
