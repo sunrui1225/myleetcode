@@ -42,6 +42,7 @@
 | 70   | [Combinations](https://leetcode-cn.com/problems/climbing-stairs/) | [Java](src/main/java/cn/rainshell/myleetcode/climbingStairs/ClimbingStairs.java) | Easy       | 1     |
 | 64   | [Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/) | [Java](src/main/java/cn/rainshell/myleetcode/minimumPathSum/MinimumPathSum.java) | Medium       | 1     |
 | 52   | [N Queens II](https://leetcode-cn.com/problems/n-queens-ii/) | [Java](src/main/java/cn/rainshell/myleetcode/NQueensII/NQueensII.java) | Hard       | 1     |
+| 50   | [PowxN](https://leetcode-cn.com/problems/powx-n/) | [Java](src/main/java/cn/rainshell/myleetcode/powxN/PowxN.java) | Medium       | 1     |
 | 49   | [Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/) | [Java](src/main/java/cn/rainshell/myleetcode/groupAnagrams/GroupAnagrams.java) | Medium       | 1     |
 | 47   | [Permutations-II](https://leetcode-cn.com/problems/permutations-ii/) | [Java](src/main/java/cn/rainshell/myleetcode/permutationsII/PermutationsII.java) | Medium       | 1     |
 | 46   | [Permutations](https://leetcode-cn.com/problems/permutations/) | [Java](src/main/java/cn/rainshell/myleetcode/permutations/Permutations.java) | Medium       | 2     |
