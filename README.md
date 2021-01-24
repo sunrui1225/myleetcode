@@ -38,9 +38,11 @@
 | 105  | [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](src/main/java/cn/rainshell/myleetcode/constructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) | Medium       | 1     |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Java](src/main/java/cn/rainshell/myleetcode/binaryTreeInorderTraversal/BinaryTreeInorderTraversal.java) | Medium       | 1     |
 | 91   | [Decode Ways](https://leetcode-cn.com/problems/decode-ways/) | [Java](src/main/java/cn/rainshell/myleetcode/decodeWays/DecodeWays.java) | Medium       | 1     |
+| 88    | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](src/main/java/cn/rainshell/myleetcode/mergeSortedArray/MergeSortedArray.java) | Easy       | 1     |
 | 78   | [Subsets](https://leetcode-cn.com/problems/subsets/) | [Java](src/main/java/cn/rainshell/myleetcode/subsets/Subsets.java) | Medium       | 1     |
 | 77   | [Combinations](https://leetcode-cn.com/problems/combinations/) | [Java](src/main/java/cn/rainshell/myleetcode/combinations/Combinations.java) | Medium       | 1     |
 | 70   | [Combinations](https://leetcode-cn.com/problems/climbing-stairs/) | [Java](src/main/java/cn/rainshell/myleetcode/climbingStairs/ClimbingStairs.java) | Easy       | 1     |
+| 66   | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [Java](src/main/java/cn/rainshell/myleetcode/plusOne/PlusOne.java) | Easy       | 1     |
 | 64   | [Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/) | [Java](src/main/java/cn/rainshell/myleetcode/minimumPathSum/MinimumPathSum.java) | Medium       | 1     |
 | 52   | [N Queens II](https://leetcode-cn.com/problems/n-queens-ii/) | [Java](src/main/java/cn/rainshell/myleetcode/NQueensII/NQueensII.java) | Hard       | 1     |
 | 50   | [PowxN](https://leetcode-cn.com/problems/powx-n/) | [Java](src/main/java/cn/rainshell/myleetcode/powxN/PowxN.java) | Medium       | 1     |
@@ -54,10 +56,7 @@
 | 22   | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [Java](src/main/java/cn/rainshell/myleetcode/generateParentheses/GenerateParentheses.java) | Medium       | 1     |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/container-with-most-water/) | [Java](src/main/java/cn/rainshell/myleetcode/mergeTwoSortedLists/MergeTwoSortedLists.java) | Easy       | 1     |
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](src/main/java/cn/rainshell/myleetcode/containerWithMostWater/ContainerWithMostWater.java) | Easy       | 1     |
-| 8    | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](src/main/java/cn/rainshell/myleetcode/mergeSortedArray/MergeSortedArray.java) | Easy       | 1     |
 | 7    | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [Java](src/main/java/cn/rainshell/myleetcode/reverseInteger/ReverseInteger.java) | Easy       | 1     |
 | 5    | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Java](src/main/java/cn/rainshell/myleetcode/longestPalindromicSubstring/LongestPalindromicSubstring.java) | Medium       | 1     |
 | 1    | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [Java](src/main/java/cn/rainshell/myleetcode/twoSum/TwoSum.java) | Easy       | 1     |
-
-
 
